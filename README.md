@@ -1,7 +1,7 @@
 # N8-Parquet-Hadoop
-Tên Đề Tài: Tìm hiểu Parquet và viết ứng dụng Demo
+#Tên Đề Tài: Tìm hiểu Parquet và viết ứng dụng Demo
 
-Thành viên nhóm:
+#Thành viên nhóm:
 
 Đường Nguyễn An Khang 20110501 0767989557
 
