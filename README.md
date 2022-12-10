@@ -14,11 +14,11 @@
 - Thư viện: https://spark.apache.org/
 - Đọc ghi file trong Hadoop, sử dụng mô hình MapReduce
 - Yêu cầu chi tiết:
-- - Sử dụng Spark trên EMR cluster để đọc data từ S3 Bucket
-- - Thực hiện ghi Parquet file từ dataframe được đọc từ file CSV
-- - Thực hiện đọc Parquet file
-- - Thực hiện một số thao tác truy vấn cơ bản với dataframe được tạo từ Parquet file
-- - File CSV download từ challange: https://www.kaggle.com/c/riiid-test-answer-prediction
+ - Sử dụng Spark trên EMR cluster để đọc data từ S3 Bucket
+ - Thực hiện ghi Parquet file từ dataframe được đọc từ file CSV
+ - Thực hiện đọc Parquet file
+ - Thực hiện một số thao tác truy vấn cơ bản với dataframe được tạo từ Parquet file
+ - File CSV download từ challange: https://www.kaggle.com/c/riiid-test-answer-prediction
 
 ### Dịch vụ sử dụng:
 
