@@ -3,11 +3,11 @@
 
 ### Thành viên nhóm 8:
 
-Đường Nguyễn An Khang 20110501 0767989557
+- Đường Nguyễn An Khang 20110501 0767989557
 
-Bùi Quang Huy 20110492
+- Bùi Quang Huy 20110492
 
-Đoàn Văn Hiếu 20110476
+- Đoàn Văn Hiếu 20110476
 
 ### Yêu cầu của đề tài:
 
@@ -22,19 +22,19 @@ Bùi Quang Huy 20110492
 
 ### Dịch vụ sử dụng:
 
-1. S3
+- S3
 
-2. EMR - EC2
+* EMR - EC2
 
-3. SageMaker
+* SageMaker
 
 ### Công nghệ sử dụng
 
-1. Lily
+* Lily
 
-2. Hadoop
+* Hadoop
 
-3. Spark
+* Spark
 
 ### Tài liệu tham khảo:
 
