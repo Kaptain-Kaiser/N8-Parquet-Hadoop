@@ -39,6 +39,7 @@
 ### Tài liệu tham khảo:
 
 - https://aws.amazon.com/blogs/machine-learning/build-amazon-sagemaker-notebooks-backed-by-spark-in-amazon-emr/
+- https://spark.apache.org/docs/latest/sql-data-sources-parquet.html
 
 ### Video báo cáo:
 - lần 1: https://youtu.be/CeYVifhZdwo
