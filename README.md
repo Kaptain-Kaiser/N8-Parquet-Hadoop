@@ -40,4 +40,5 @@
 
 - https://aws.amazon.com/blogs/machine-learning/build-amazon-sagemaker-notebooks-backed-by-spark-in-amazon-emr/
 
-### Video báo cáo
+### Video báo cáo:
+- lần 1: https://youtu.be/CeYVifhZdwo
