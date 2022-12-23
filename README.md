@@ -4,9 +4,7 @@
 ### Thành viên nhóm 8:
 
 - Đường Nguyễn An Khang 20110501 0767989557
-
 - Bùi Quang Huy 20110492
-
 - Đoàn Văn Hiếu 20110476
 
 ### Yêu cầu của đề tài:
@@ -19,21 +17,16 @@
    + Đọc, ghi file Parquet trong Hadoop sử dụng mô hình MapReduce
    + File CSV download từ challange: https://www.kaggle.com/c/riiid-test-answer-prediction"
 
-
 ### Dịch vụ sử dụng:
 
 - S3
-
 * EMR - EC2
-
 * SageMaker
 
 ### Công nghệ sử dụng
 
 * Lily
-
 * Hadoop
-
 * Spark
 
 ### Tài liệu tham khảo:
@@ -42,5 +35,6 @@
 - https://spark.apache.org/docs/latest/sql-data-sources-parquet.html
 
 ### Video báo cáo:
+
 - lần 1: https://youtu.be/CeYVifhZdwo
 - lần 2: https://youtu.be/VK48pbE979I
