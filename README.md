@@ -43,3 +43,4 @@
 
 ### Video báo cáo:
 - lần 1: https://youtu.be/CeYVifhZdwo
+- lần 2: https://youtu.be/VK48pbE979I
