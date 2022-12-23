@@ -19,7 +19,7 @@
 
 ### Dịch vụ sử dụng:
 
-- S3
+* S3
 * EMR - EC2
 * SageMaker
 
